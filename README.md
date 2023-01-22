@@ -1,0 +1,2 @@
+# BlazorApp
+.Net Blazor application
